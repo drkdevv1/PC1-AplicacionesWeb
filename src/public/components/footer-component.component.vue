@@ -8,7 +8,7 @@ export default {
 <template>
   <div class="c-footer">
     <p>Copyright © 2024 Jelly Bean Peru Store, inc. All rights reserved.</p>
-    <p>Developed by U202213076 - José Daniel Mario Calderón Huamán </p>
+    <p>Developed by  Jose Calderón </p>
   </div>
 </template>
 
